@@ -1,6 +1,6 @@
 # Surf 'n Shake in Oahu
 ## *Overview*
-Before Investor W. Avy decides to move forward with investing into a "Surf 'n Shake" shop in Oahu, he needs to have some weather analysis for his own peace of mind as well as his team of executives. By analyzing data not only during the most popular time of year for these two ventures (June) but perhaps the least popular time of year (December), they can determine whether the liability of weather is something worth the risk
+Before Investor W. Avy decides to move forward with investing into a "Surf 'n Shake" shop in Oahu, he needs to have some weather analysis for his own peace of mind as well as his team of executives. By analyzing data not only during the most popular time of year (June) for these two ventures but perhaps the least popular time of year (December), they can determine whether the liability of weather is worth the risk.
 
 ## *Results*
 * If the phrase "sunny and 75" is any indication of the "perfect weather," then Oahu in June looks ideal: a mean of 74.9° and a maximum that doesn't exceed 85°. Even the minimum of 64° isn't too shabby. See Figure A below. <br />
@@ -12,4 +12,6 @@ Figure B: <br />
 * The number of data points for both June and December exceeds 1,500 since we're looking at more than just one year, which adds additional validation to this dataset.
 
 ## *Summary*
-At first glance, a Surf 'n Shake shop in Oahu looks like a pretty safe bet when looking at the average temperatures across a combined 3,217 data points. The average does not dip below 70° during either time period and seems to have a decent number of days in the mid to high 70's and sometimes the 80's. In order to dive deeper into the data, it would be helpful to run a query that shows the number of days during June (but especially December) that are below 70°. That's arguably the cut-off for customers wanting to do either of those activities. Another helpful query would be to see if there are any days in the 70's that are actually rainy. While it's still on the warmer side, that will deter customers from wanting to come to the shop.
+At first glance, a Surf 'n Shake shop in Oahu looks like a pretty safe bet when looking at the average temperatures across a combined 3,217 data points. The average does not dip below 70° during either time period and seems to have a decent number of days in the mid to high 70's and sometimes the 80's. In order to dive deeper into the data, it would be helpful to run a query that shows the number of days during June (but especially December) that are below 70°. That's arguably the cut-off for customers wanting to do either of those activities. Another helpful query would be to see if there are any days in the 70's that are actually *rainy*. While it's still on the warmer side, rain in and of itself will deter customers from wanting to come to the shop.
+
+Overall we're hoping to cheers our Mai Tai's on a beach in Oahu sooner rather than later!
